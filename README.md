@@ -1,4 +1,4 @@
-# my_app
+# magic-mixer
 
 A new Flutter project.
 
