@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "882879629939",
+    "project_id": "yoonique-friends",
+    "storage_bucket": "yoonique-friends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882879629939:android:e5fe1571c381745be77806",
+        "android_client_info": {
+          "package_name": "com.example.YF"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882879629939-r4qn76p5bsesc3tlr7tnl12mt9jdbfii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqwvKDJN-jXPwE4rghhnDisx82tiZ0Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882879629939-o17icuvd39ekcsifopdpmclr6nrlap2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "882879629939-l0cek69093c6o51n1u52qftdjuhj39bo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myYF"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
