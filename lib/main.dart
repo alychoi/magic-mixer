@@ -5,6 +5,7 @@ import 'package:my_app/pages/profile.dart';
 import 'package:my_app/utils/colors.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:dot_navigation_bar/dot_navigation_bar.dart';
+import 'package:my_app/pages/signin.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -24,7 +25,7 @@ class _MyAppState extends State<MyApp> {
   int pageIndex = 0;
 
   final pages = [
-    const MessagePage(),
+    const SignIn(),
     const MagicMixer(),
     const ProfilePage(),
   ];
